@@ -4,8 +4,6 @@
 
 I'm 郭子隽
 
-Nice to meet you 😏
-
 
 <!--
 **Easy121/Easy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
