@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi 👋
+I'm 郭子隽
+Nice to meet you 😏
+> Driverless is Dangerous
 <!--
 **Easy121/Easy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
